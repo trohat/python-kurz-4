@@ -1,0 +1,8 @@
+spouštění pythonu:
+py NEBO python NEBO python3 (podle toho jak to u vás funguje)
+
+opuštění:
+exit()
+
+adresa:
+colab.research.google.com
