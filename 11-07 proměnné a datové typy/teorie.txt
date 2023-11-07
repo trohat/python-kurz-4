@@ -1,0 +1,27 @@
+datové typy dnes probrané:
+
+str (string)
+
+float (desetinné číslo)
+
+int (celé číslo)
+
+Operace s čísly:
++, -, *, /, //, %
+
+// = celočíselné dělení
+% = modulo (zbytek po dělení)
+
+Priorita operátorů:
+* a / má prioritu před + a -
+závorka vyhrává vždy (nejenom u čísel)
+
+Operace se stringy: 
++ (spojování řetězců, anglicky concatenate)
+* (str * int udělá kopírování řetězce vícekrát za sebou)
+
+Jak se ukládá do proměnné:
+KAM = CO 
+
+Jaké znaky jsou povolené v proměnných:
+písmenka, čísla, podtržítko

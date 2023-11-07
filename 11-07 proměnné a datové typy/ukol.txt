@@ -1,0 +1,17 @@
+1.) Vyrobte program na násobení dvou čísel. 
+Uživatel zadá čísla a program vytiskne výsledek.
+
+2.) Uživatel zadá roční příjmy, roční výdaje a daňovou sazbu.
+
+Vypočítejte jaký má zisk a jaké platí daně.
+
+Nápověda:
+zisk = příjmy - výdaje
+daně = daňová sazba * zisk 
+(daňová sazba může být zadávána jako 0.15 nebo jako 15 - ve druhém případě 
+musíte ještě výsledek vydělit stem)
+
+3.) Vytvořte program, pro rozdělování bonbónů dětem.
+Uživatel zadá dvě čísla - kolik je dětí a kolik je bonbónů.
+Výstup programu budou také dvě čísla: Kolik bonbónů dostane každé dítě,
+a hlavně, kolik zbyde pro vedoucího dětské skupiny!

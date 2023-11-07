@@ -4,5 +4,13 @@ py NEBO python NEBO python3 (podle toho jak to u vás funguje)
 opuštění:
 exit()
 
+vymazání obrazovky:
+import os (nutno importovat knihovnu)
+os.system("cls") 
+ale na Macu "clear" místo "cls"
+
 adresa:
 colab.research.google.com
+
+adresa na github:
+https://github.com/trohat/python-kurz-4
