@@ -1,0 +1,36 @@
+1.) Jaký znak použiju pro uložení nějaké hodnoty do proměnné?
+Co se od něj píše nalevo a co napravo?
+
+velikost_nohy = 45
+
+2.) Jaký znak (nebo znaky) má absolutní přednost před všemi operátory?
+
+(4 + 3) * 9
+
+3.) Jaké znáte v Pythonu datové typy? Aspoň tři, anglicky i česky
+string, řetězce, str
+integer, celé číslo, int
+float, desetinné číslo
+boolean, bool 
+
+4.) Jaká bude hodnota v proměnné velikost po tomto kódu? Proč?
+Co můžu udělat, kdybych to chtěl jinak?
+kód zde:
+velikost = 42
+velikost + 2
+
+pro uložení potřebuju velikost = velikost + 2
+
+5.) Jak se jmenuje v Pythonu funkce pro vstup a jak funkce pro výstup?
+
+6.) Vyberte povolené názvy proměnných:
+slon
+opice3
+7gorila
+velka_zirafa
+malyVelbloud
+jedovaty had 
+Chameleon
+PES  
+
+

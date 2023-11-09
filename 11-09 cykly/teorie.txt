@@ -1,0 +1,11 @@
+Porovnávací operátory:
+
+== (je stejné)
+!= (není stejné)
+<, >, <=, >=
+
+vždy z nich vychází hodnota typu
+boolean, což je 
+True nebo False
+(pravda nebo lež)
+

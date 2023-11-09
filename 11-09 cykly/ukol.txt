@@ -1,0 +1,24 @@
+1.) Napište program, který bude pracovat s nabídkou v restauraci.
+Na začátku bude proměnná vek, kterou přečtete z inputu.
+Podle věku program rozhodne, jestli uživateli nabídne pivo nebo 
+limonádu.
+
+Pozn. Zrovna v téhle části jsou úkoly od ITStepu moc hezké, takže můžete
+přeskočit úkoly ode mě a vrhnout se na úkoly od ITStepu.
+if chci_delat_ukoly_z_IT_Stepu == True:
+    přeskoč_na_bod_5()
+
+2.) Rozšiřte program z bodu 1 o různé druhy nealko nápojů pro různě staré děti
+(např. jiný nápoj pro děti 0-5, jiný pro 5-10 a jiný pro 10-18).
+
+3.) Pro dospělé použijte vniřní podmínku, kde nabídnete různé druhy tvrdého 
+alkoholu. (Nezapomeňte tam nechat to pivo, to si chtějí dát všichni.)
+Např. jiný druh pro lidi 18-30, jiný pro 30-50 a jiný pro 50+.
+
+4.) Spusťte program a otestujte různé vstupy.
+
+5.) Dále pokračujte s úkoly od ITStepu, které jsou nahrány v Teamsech.
+Jedná se o modul 2. Úkoly jsou vždy ve dvou sadách, HW a Practice. Úkoly
+v obou sadách jsou podobné.
+Part 1 je vždy nejlhečí. Spolu s part 2 jsou docela stravitelné, part 3 jsou už jen pro super
+náročné :)
