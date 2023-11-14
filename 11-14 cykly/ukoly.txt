@@ -1,0 +1,18 @@
+Poznámka: Všechny úkoly řešte pomocí cyklu for, některé z nich i pomocí cyklu while
+- cyklus for je mnohem důležitější, ale chci abyste procvičili i while
+
+1. Napište cyklus, který vypíše čísla od 1 do 10
+
+2. Napište cyklus, který vypíše čísla od 5 do 15
+
+3. Napište cyklus, který vypíše 7x ahoj (v kódu je povoleno pouze jedno použití funkce print)
+
+4. Napište cyklus, který vypíše všechna čísla od 1 do 20, ale skáče po dvou
+
+5. Napište cyklus, který vypíše čísla od 10 do 1, pozpátku
+
+6. Dále pokračujte v Teamsech, modul 2, part 4,5,6, practice i homework (HW)
+
+(modul 2, part 1,2,3 jsou úkoly na podmínky, k těm se vraťte taky)
+
+7. Můžete si o cyklech přečíst více, v mystatu máte k dispozici materiály
