@@ -1,0 +1,15 @@
+
+SCOPE:
+
+lokální ve funkci (tj. když definuji proměnnou uvnitř funkce)
+
+globální mimo funkci 
+
+
+lokální proměnné (tedy i parametry) fungují jen uvnitř funkce,
+když funkce skončí, tak zmizí
+
+jak dostat něco ven z funkce? pomocí návratové hodnoty
+
+návratová hodnota ("return") - ukončí funkci a předá ven výsledek
+výrazu za slovíčkem return
