@@ -1,0 +1,56 @@
+1.) Vytvořte seznam, ve kterém bude šest vašich oblíbených kapel.
+
+2.) Vypište kapelu na druhém a čtvrtém místě.
+
+3.) Rozmysleli ste si to. Vaše nejoblíbenější kapela (tedy ta na prvním místě)
+se změnila. Změňte odpovídajícím způsobem seznam.
+
+4.) Přidejte do seznamu sedmou a osmou kapelu.
+
+5.) Vytvořte nový seznam (pomocí list slicing), kde budou kapely od indexu 1
+do indexu 5.
+
+5b.) Pomocí list slicing vytvořte seznam s kapelami od druhého místa až do konce 
+seznamu.
+
+5c.) To samé, ale kapely od začátku až do třetí pozice.
+
+5d.) To samé, ale jen první, třetí a pátou kapelu.
+
+5e.) Vytvořte pomocí list slicing kopii celého seznamu.
+
+5f.) Vytvořte pomocí list slicing kopii celého seznamu, ale řazenou pozpátku.
+
+6.) Vzpomeňte si na jednu z kapel v seznamu a pomocí Pythonu zjistěte, na 
+kolikáté je pozici.
+
+7.) Nemáte tam nějakou kapelu 2x? Vyberte jednu náhodnou a zjistěte, kolikrát se 
+v seznamu vyskytuje.
+
+8.) Na třetí pozici vložte jinou kapelu (tu, co byla původně třetí ale nevymažte, 
+jen ať se posune na 4té místo.)
+
+9.) Odeberte ze seznamu kapelu na páté pozici.
+
+10.) Vypište délku seznamu.
+
+11.) Vypište seznam s kapelami, a to tak že se na každém řádku vypíše:
+"Moje nej kapela na x. místě je jméno-kapely." (Místo x a jména bude
+skutečné číslo a jméno.)
+
+12.) Udělejte si seznam, kde bude přibližně deset různých čísel. Pomocí funkcí v Pythonu
+zjistěte, jaké je z nich největší, jaké je nejmenší a kolik je jejich součet.
+
+Konečně něco těžkého:
+13.) To samé jako úkol 12, ale máte zakázáno používat funkce max, min a sum (tedy, musíte si
+to naprogramovat sami.)
+
+14.) Projděte seznam s čísly a vypočítejte průměr čísel v seznamu. 
+
+15.) Další úkoly zde (soubory jsou nahrané v Teamsech):
+(kdyby se nějaké úkoly opakovaly, tak je klidně přeskočte :))
+a.) Practice modul 3, part 2, task 3 (součet a průměr čísel v listu)
+
+b.) Homework modul 3, part 2, task 2 (různé operace s listem)
+
+c.) Practice modul 3 part 3 vše

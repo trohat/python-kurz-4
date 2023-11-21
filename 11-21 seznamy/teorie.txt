@@ -1,0 +1,13 @@
+
+datové typy:
+
+boolean - True, False
+string 
+int - celé číslo
+float - desetinné číslo
+NoneType - None
+
+seznam
+slovník
+řetězce
+
