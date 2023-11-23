@@ -1,0 +1,28 @@
+Lehčí úkoly na rozcvičku:
+
+1.) Uložte do proměnné string s větou o několika slovech
+a) změňte všechna písmena ve větě na velká, string vytiskněte
+b) změňte všechna písmena ve větě na malá (opět vytiskněte)
+c) udělejte první písmeno ve větě velké (a vytiskněte)
+d) udělejte první písmeno každého slova ve větě velké (a tisk)
+
+e) udělejte ze stringu seznam 
+f) udělejte ze seznamu opět string, ale místo mezer budou pomlčky
+
+2.) použijte tento kód:
+retezec = "Já jsem velký slon a mám modré uši."
+a) zkuste v řetězci najít, na jakém indexu je slovo slon
+b) zkuste najít, jestli je v řetězci slovo hroch
+c) nahraďte slovo slon slovem nosorožec
+
+
+-------------------------------------------------------------
+
+Další úkoly jsou nahrané v Teamsech pod datem minulé hodiny,
+tj. složka 11-21 (seznamy).
+
+Začněte v souboru Practice modul 3 part 1.
+
+Dále Practice modul 3 part 2 task 1.
+
+Pak HW modul 3 part 1. (to už je ale dost těžké)
