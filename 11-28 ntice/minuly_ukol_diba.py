@@ -1,3 +1,4 @@
+import re
 
 # Zadání věty do proměnné
 vetou_o_slovech = "Toto je příklad věty obsahující několik slov."
@@ -73,7 +74,7 @@ print("Modified Text:")
 print(modified_text)
 
  #===================================
-import re
+
 
 def count_sentences(text):
     sentences = [sentence.strip() for sentence in re.split(r'[.!?]', text) if sentence.strip()]

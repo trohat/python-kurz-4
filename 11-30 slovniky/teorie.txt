@@ -1,0 +1,10 @@
+datové typy:
+
+int
+float
+string
+boolean
+list (seznam) - vypadá jako to, co znají někteřá jako pole
+NoneType 
+
+slovnik - klíče a hodnoty

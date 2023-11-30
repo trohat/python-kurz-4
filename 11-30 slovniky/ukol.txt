@@ -1,0 +1,98 @@
+(Rozcvička, lze přeskočit)
+0.) Vytvořte slovník, který odpovídá slovníku pro překlad do nějakého cizího jazyka.
+(např. slovíčka v češtině a ve francouzštině - zvolte si jazyk, který umíte)
+
+a) vytvořte ho s aspoň pěti slovíčky
+b) dalším kódem do něj přidejte aspoň dvě slovíčka
+c) vytiskněte překlad nějakých slovíček
+d) změňte překlad nějakého slovíčka
+e) zeptejte se, jestli v něm je nějaké slovíčko (vyberte nějaké, co je, i nějaké, co není)
+
+-----------------------------------------------
+
+První sada: 
+
+1.) Vytvořte slovník, který vypadá jako menu restaurace
+
+klíče jsou jména jídel (zvolte jednoduchá, např. jednoslovná jídla)
+hodnoty jsou ceny (pouze číslo bez měny)
+
+a) vytvořte ho rovnou s několika jídly
+b) pak do něj dalšími příkazy několik jídel přidejte
+c) změnte u nějakého jídla cenu
+d) zkuste nějaké jídlo z menu vymazat (to jsme nedělali, můžete přeskočit)
+
+2.) Napište funkci, která vypíše všechna jídla
+(lehčí varianta: nemusí to být funkce, vypište je jen tak)
+
+3.) Napište funkci, která vypíše celé menu - tj. jídla i s cenami
+(též můžete zvolit lehčí variantu bez funkce)
+
+4.) Napište funkci, která si vezme od hosta objednávku a 
+připraví mu účet
+Host bude postupně zadávat jídla, která si chce dát (pomocí inputu).
+Pokud jídlo máme v menu, tak se vypíše potvrzení a cena (host
+si samozřejmě může objednat stejné jídlo vícekrát)
+Pokud jídlo nemáme, tak se vypíše "omlouváme se zrovna došlo" nebo
+"takovou blbost jsme nikdy neměli" (záleží na vás jak hodní chcete
+být na hosty)
+Pokud host zadá prázdný řetězec, znamená to, že skončil s objednáváním
+a vypíše se celková cena.
+
+5.) Vytvořte slovník, kde klíče jsou uživatelská jména a hodnoty jsou
+hesla. Zeptejte se uživatele na jméno a heslo a sdělte mu,
+jestli se úspěšně přihlásil.
+(POZOR - v praxi nikdy neukládejte hesla tímto způsobem, toto je jen 
+cvičení. Hesla musí být skrytá, zakódovaná.)
+
+6.) Definujte slovník, kde klíče jsou data v příštím týdnu (vyjádřená 
+stringem nebo ještě lépe jen jedním číslem) a hodnoty jsou 
+teploty v dané dny.
+Těžší verze: Hodnoty jsou další slovníky, kde je uložena 
+nejen teplota, ale i slovní popis počasí a rosný bod. 
+Po zadání data program vypíše, jak bude, případně jak bude den potom 
+a dva dny potom.
+
+Super těžké - pro procvičení všeho možného včetně googlení:
+7.) Nadefinujte slovník, kde klíče jsou jména lidí od vás z rodiny a 
+hodnoty data jejich narození (vygooglete si, jak Python definuje datum).
+Nechte uživatele zadat jméno někoho z rodiny, a vypočítejte, jak je starý.
+
+
+Další úkoly případně v Teamsech, adresář 11-30 slovniky.
+soubor HW module 06 part 2
+-------
+Druhá sada:
+
+1.) Napište program na počítání deště ve městech
+Uživatel postupně zadává jméno města a déšť v milimetrech (nějaké
+město se může zadat vícekrát). Pro ukončení zadá prázdný řádek.
+Program pak vytiskne, kolik v každém městě napršelo.
+Příklad (každý řádek je jedno zadání od uživatele):
+Brno
+10
+Bratislava
+15
+Brno
+20
+(enter, tj. prázdný řádek)
+
+Výsledek bude:
+Brno: 30
+Bratislava: 15
+(nápověda: použijte slovník)
+
+2.) Těžší verze jedničky:
+Místo celkového deště program vypočítá průměrný déšť podle počtu dní.
+Tj. v minulém případě by u Bratislavy bylo pořád 15, a u Brna také 15.
+
+3.) Napište funkci, která vezme jako parametr větu (nějaká slova se 
+ve větě můžou opakovat)
+Funkce spočítá počet slov ve větě a vrátí ho jako slovník
+"this is a very nice very very nice test" =>
+{ "this" : 1, "is" : 1, "a" : 1, "very" : 3, "nice" : 2, "test": 1 }
+
+4.) And now something completely different
+Mám list, ve kterém jsou dvojice čísel, např.: [(1, 2), (3, 7), (9, 5)]
+Napište kód, který ten list projde a spočítá součet součinů,
+tj. v tomto případě 1 * 2 + 3 * 7 + 9 * 5
