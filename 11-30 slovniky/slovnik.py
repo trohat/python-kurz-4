@@ -1,4 +1,4 @@
-"""
+
 jmeno = "Petr"
 prijmeni = "Sedláček"
 vek = 15
@@ -7,7 +7,7 @@ je_muz = True
 je_zena = False
 partner = None
 oblibena_soutez = "Advent of Code"
-"""
+
 
 
 
@@ -36,3 +36,10 @@ petr = {
     },
     "oblíbená soutěž": "Advent of Code"
 }  
+
+bag1 = {
+    "red": 5,
+    "green": 7,
+    "blue": 4
+}
+
