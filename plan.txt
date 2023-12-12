@@ -1,0 +1,13 @@
+list comprehension
+
+tuple, set
+
+error handling ne
+
+práce se soubory???? ne
+
+OOP - 5 večerů
+
+SQL - 3 večery
+
+Django - 8 večerů

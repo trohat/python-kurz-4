@@ -1,0 +1,26 @@
+úkoly na stringy jsou na githubu, hodina 11-28 ntice
+
+*************************
+
+další úkoly na dnešek jsou v Teamsech, složka 11-30 slovniky:
+
+úkoly na sety:
+practice 06 part 2
+
+různé úkoly, něco o tuple:
+practice 06 part 1
+
+úkoly hlavně na tuple:
+HW 06 part 1
+
+docela těžké úkoly na slovníky:
+HW 06 part 2
+
+Vyberte si jaké úkoly chcete, něco vám zbyde i na Vánoce.
+Pokud se vám podaří nějaké těžší úkoly, rád je uvidím
+a samozřejmě probereme to, co se vám nepodaří.
+
+Možná někdy v úkolech narazíte na něco, co jsme nebrali,
+to je v pořádku, máte google, dokumentaci, nebo chatGPT,
+určitě si to dokážete najít
+(a pokud ne, tak vám můžu poradit i já).

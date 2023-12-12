@@ -1,0 +1,14 @@
+
+int
+float
+bool
+str - jsou neměnné
+
+list
+dict (dictionary)
+
+nová datová struktura:
+tuple - česky n-tice
+
+ještě jedna nová datová struktura:
+set, česky množina
