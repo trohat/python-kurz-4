@@ -1,0 +1,26 @@
+1.) Vytvořte funkci, která vezme slovo 
+a vytvoří z něj slovo v Pig Latin
+a) Když slovo začíná samohláskou, přidá se na konec "way"
+b) Když slovo začíná souhláskou, souhláska se odebere, přidá 
+se na konec a za ní se přidá "ay"
+air => airway
+ear => earway
+elephant => elephantway
+computer => omputercay
+cat => atcay
+papaya => apayapay
+
+2.) Těžší verze:
+Pokud je v daném slově první písmeno velké, 
+bude velké první písmeno i ve výsledku
+Computer => Omputercay
+
+3.) Ještě těžší verze: 
+Slovo může mít na konci tečku nebo čárku -
+pokud tam je, bude na konci i ve výsledku
+"computer," => "omputercay,"
+
+4.) To samé, ale s celou větou (věta se nejdříve
+rozdělí na slova, nakonec se zase spojí)
+- můžete použít funkci ze cvičení jedna,
+nemusíte uvažovat diakritiku a velká písmena
