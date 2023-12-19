@@ -1,0 +1,9 @@
+Jsou knihovny které obarvování to dělají správně, 
+ale v moderních terminálech jde vypsat escape sekvenci 
+\033[91m, pak text co má být červený, a nakonec očervenění ukončit 
+pomocí \033[0m. (Není problém ukončit po každém červeném znaku, 
+a pak kdyžtak zase začít.)
+Místo 91 (červená) se dá použít 92 (zelená), 93 (žlutá), 94 (modrá), 
+95 (fialová), 96 (azurová), 97 (bílá) a jiné.
+
+Viz https://en.wikipedia.org/wiki/ANSI_escape_code#Colors 

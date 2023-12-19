@@ -24,3 +24,8 @@ pokud tam je, bude na konci i ve výsledku
 rozdělí na slova, nakonec se zase spojí)
 - můžete použít funkci ze cvičení jedna,
 nemusíte uvažovat diakritiku a velká písmena
+
+5.) Ještě jeden tajný dětský jazyk, tentokrát se jmenuje Ubbi Dubbi
+Napište funkci, která vezme slovo, vytvoří
+z něj nové slovo a před každou samohlásku přidá písmena "ub"
+octopus => uboctubopubus
