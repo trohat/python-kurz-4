@@ -1,0 +1,35 @@
+0a, 0b, 0c a 0d jsou na rozcvičku, pokud si hodně věříte, můžete přeskočit.
+
+0a.) Vytvořte si seznam s čísly. Vytvořte nový seznam, kde jsou všechna
+čísla zvětšená o tři. (Můžete pomocí cyklu, později určitě pomocí list 
+comprehension.)
+
+0b.) To samé jako 0a, ale lichá čísla z nového seznamu vypadnou.
+
+0c.) Vytvořte si seznam se slovy. Vytvořte nový seznam, kde jsou všechna
+slova napsaná velkými písmeny. (Můžete pomocí cyklu, později určitě pomocí list 
+comprehension.)
+
+0d.) To samé jako 0c, ale v novém seznamu budou jen slova delší než tři písmena.
+
+1.) Napište funkci, která vrátí seznam s třetími mocninami všech čísel 
+v zadaném seznamu.
+
+2.) Vytvořte funkci, která vezme seznam čísel (list of ints) a 
+vytvoří z nich řetězce.
+2b.) Vytvoří řetězce jen z těch čísel, co jsou menší než 15.
+
+3.) Napište funkci, která vezme řetězec, kde jsou čísla a 
+shluky písmenek oddělená mezerami. Funkce vrátí součet čísel 
+a písmenka ignoruje.
+příklad: "10 abc 20 de44 30 55fg 40" -> 100
+
+4.) Vytvořte funkci, která narovná seznam - tj. ze seznamu 
+dvě úrovně hlubokého vytvoří seznam jednoúrovňový.
+[[1,2], [3,4]] => [1, 2, 3, 4]
+Asi budete potřebovat vnořený cyklus - v list comprehensions
+lze vnořovat také.
+
+5.) Otočte slovník (pokud jsme už probrali dict comprehensions):
+Vytvořte funkci, která vezme slovník a vytvoří nový slovník,
+kde klíče jsou to, co bylo minule hodnoty a naopak

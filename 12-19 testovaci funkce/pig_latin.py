@@ -1,4 +1,4 @@
-from testovani import test_equality
+from testy.testovani import test_equality
 
 vowels = "aeiouy"
 

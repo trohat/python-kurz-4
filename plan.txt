@@ -1,13 +1,9 @@
 list comprehension
 
-tuple, set
-
-error handling ne
-
-práce se soubory???? ne
+error handling
 
 OOP - 5 večerů
 
-SQL - 3 večery
+SQL (tedy databáze) - 3 večery
 
-Django - 8 večerů
+Django - 8 večerů (součást i databáze, tedy něco co je hodně blízké SQL)   
