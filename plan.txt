@@ -1,6 +1,6 @@
 list comprehension
 
-error handling
+error handling ---
 
 OOP - 5 večerů
 
