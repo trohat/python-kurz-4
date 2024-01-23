@@ -1,0 +1,53 @@
+dnes se budeme věnovat OOP
+
+OOP = objektově orientované programování
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+jak psát kód:
+a) špagetově - to je jako "na prase"
+
+b) funkcionální programování
+
+c) objektové programování  
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+k čemu jsou dobré objekty:
+
+terminologie:
+objekt
+
+třída x instance
+třída je vzor (plánek, blueprint, ještě to není konkrétní objekt)
+instance je konkrétní objekt (např. Alík od sousedů)
+protože programujeme objektově, začínáme třídami a až z nich tvoříme 
+        konkrétní instance (konrétní Alíky)
+
+funkce x metoda
+
+atribut x proměnná
+
+místo slova atribut se někdy používá "pole" (field),
+        někdy i "vlastnost", i když to není úplně přesné
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+objekt Alík
+vlastnosti (proměnné): jméno, rasa, výška, váha, nebezpečnost
+
+chování (funkce, metody): vrčet, štěkat, běhat, skákat, poslouchat
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+objekt Pepa:
+vlastnosti (proměnné, atributy): jméno, věk, pohlaví, váha, výška, národnost, vzdělání, temperament
+
+chování, činnost (funkce, metody): psát_na_počítači, řídit_auto, umýt_se, čistit_si_zuby, hrát_tenis,
+        vařit, jíst, číst, pracovat, jít_do_práce, nasadit_brýle, vstát, jít_spát
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+objekt databáze:
+vlastnosti (proměnné, atributy): velikost, adresa_serveru, typ_dat, heslo, přístupový_řetězec
+
+činnost (funkce, metody): vyhledávat, přečíst_data, vložit_data, vymazat_data, přepsat_data

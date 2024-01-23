@@ -1,0 +1,21 @@
+Vytvořte třídu Slon.
+Slon má několik atributů: jméno, barvu, váhu a povolání.
+(Pokud je to moc těžké, stačí jen dva atributy místo čtyř)
+Slon umí dvě činnosti: troubit a stříkat 
+vodu na kolemjdoucí lidi. (co se na to používá?? stačí
+nám běžné funkce??)
+
+Vytvořte jednu instanci slona a uložte ho do proměnné.
+Nechte ho zatroubit a postříkat lidi.
+Vypište jeho jméno, pak ho přejmenujte a vypište nové jméno.
+
+Vytvořte druhou a třetí instanci slona. 
+Vypište povolání druhého slona, pak povolání změňte a znovu ho vypište.
+
+#### poznámka: tohle jsme asi nestihli
+Vypište slony jen tak (print(slon1)). Vypisuje se slon hezky? 
+Co můžete udělat pro to, aby se vypisoval lépe?
+
+BONUS pro pokročilé:
+Pokud je slon růžový, místo stříkání vody se bude jen usmívat.
+(růžoví sloni přeci nejsou tak škodolibí.)
