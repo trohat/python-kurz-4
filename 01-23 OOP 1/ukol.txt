@@ -12,7 +12,7 @@ Vypište jeho jméno, pak ho přejmenujte a vypište nové jméno.
 Vytvořte druhou a třetí instanci slona. 
 Vypište povolání druhého slona, pak povolání změňte a znovu ho vypište.
 
-#### poznámka: tohle jsme asi nestihli
+POZNÁMKA: tohle jsme už stihli, můžete to dodělat
 Vypište slony jen tak (print(slon1)). Vypisuje se slon hezky? 
 Co můžete udělat pro to, aby se vypisoval lépe?
 

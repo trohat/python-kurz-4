@@ -1,0 +1,29 @@
+1.) Nadefinujte třídu Motor. Motor má typ a výkon. 
+Nadefinujte třídu Auto. Auto má značku a motor. Jako motor se používá instance
+třídy motor.
+
+Motor i Auto se umí hezky vypisovat.
+
+Vytvořte několik instancí třídy auto a několik instancí třídy motor. Nějaké 
+motory uložte do proměnných, nějaké vytvořte přímo při vytváření aut.
+
+Zkuste změnit typ motoru tak, že si na něj sáhnete ne přímo, ale přes auto, 
+které ho používá.
+
+BONUS: Můžete přidělat nějakou další funkcionalitu. Auto může jezdit na výlety,
+spotřebovávat při tom benzín, tankovat. Jako jsme dělali na hodině, ale třeba 
+při tankování nemusíme vždycky tankovat do plné nádrže. Můžete také při tankování přidat další
+parametr, což je stav vaší peněženky, a na začátku zkontrolovat,
+jestli vůbec máte na benzín dost peněz.
+
+BONUS: Vytořte třídu člověk, člověk má jméno a auto. Opět použijte skládání objektů.
+Zkuste na auto i na jeho motor sáhnout přímo nebo skrz objekt člověka.
+
+2.) Vytvořte třídu Kniha. Kniha má jméno, autora a rok vydání.
+Vytvořte třídu PoliceNaKnihy. Do police se vejde neomezené množství knih.
+Vytvořte ve třídě metodu na přidávání knih (ať je nemusíte přidávat ručně.)
+
+Zařiďte, ať se Kniha i PoliceNaKnihy hezky vypisuje.
+
+Vytvořte několik instancí knih, aspoň jednu instanci PoliceNaKnihy a 
+několik knih do ní uložte.
