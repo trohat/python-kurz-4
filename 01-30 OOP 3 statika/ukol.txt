@@ -1,0 +1,14 @@
+1.) Vytvořte třídu Pes. Pes má jméno a věk. 
+Třída pes si pamatuje (pomocí třídní proměnné), kolik psů už bylo vytvořeno.
+
+2.) Vytvořte několik psů a vypište (pomocí třídní proměnné), kolik psů už bylo vytvořeno.
+
+3.) Vypisovat třídní proměnnou sice umíte a jde to, ale nemusí to být v každém případě
+úplně ideální postup. Vypište počet vytvořených psů pomocí metody přímo ve třídě Pes.
+Zkuste použít běžnou instanční metodu (ta se na to příliš nehodí, ale stejně si to zkuste), 
+dále zkuste statickou metodu a třídní metodu. Jaké jsou mezi nimi rozdíly?
+
+4.) Otázky z TEORIE:
+a) Jak se liší statická a třídní metoda, vzhledem k počtu parametrů?
+b) K čemu je dobrý parametr "cls" ve třídní metodě?
+c) Na co se odkazuji pomocí "self.__class__"?
