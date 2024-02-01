@@ -1,5 +1,7 @@
 # statika = něco patří ne instanci, ale celé třídě
 
+pocet_psu = 0
+
 class Pes:
     pocet_pejsku = 0
     seznam_psu = []
@@ -10,6 +12,10 @@ class Pes:
         # self.__class__.pocet_pejsku += 1
         Pes.pocet_pejsku += 1
         Pes.seznam_psu.append(self)
+
+    @classmethod
+    def vytvor_psa_jen_podle_jmena(cls, jmeno):
+        return cls(jmeno, "neznámá rasa")
 
     def __str__(self):
         return f"Toto je {self.rasa} {self.jmeno}."
@@ -36,6 +42,9 @@ pes4 = Pes("Filip", "jezevčík")
 
 for i in range(100):
     pes4 = Pes("Filip", "jezevčík")
+
+pes105 = Pes.vytvor_psa_jen_podle_jmena("Petr")
+pes106 = Pes("Michal")
 
 print(pes1.jmeno)
 

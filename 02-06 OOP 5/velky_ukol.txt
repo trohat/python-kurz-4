@@ -1,0 +1,71 @@
+Velký úkol na OOP:
+Vytvořte třídu zvíře. Zvíře má počet nohou, barvu a metodu vydej_zvuk 
+(metoda nebude nic dělat, obecné zvíře zvuk nevydává).
+
+Vytvořte několik tříd na konkrétní zvířata. Např. třída pes, kočka, nebo taky
+žirafa a slon. Zajímavá je třída had - ten má 0 nohou.
+
+Každá nová třída bude mít něco navíc (atribut nebo metodu), např. pes může mít atribut rasu nebo
+metodu hlidej_barak. (Dohromady vytvořte aspoň jednu metodu a aspoň jeden atribut.)
+Každý potomek zvířete zároveň přepíše (přetíží) metodu vydej_zvuk po svém (např. pes zaštěká).
+Vytvořte několik instancí různých zvířat.
+
+Vytvořte si seznam (list) a uložte do něj několik instancí různých zvířat. Pak seznam projděte 
+cyklem a nechte každé zvíře dát o sobě nahlas vědět (tedy vždy zavolejte metodu vydej_zvuk).
+
+Dodělejte ke zvířatům metodu __str__ nebo __repr__, aby se hezky vypisovala. Zamyslete se, jestli 
+se hodí víc k předkovi Zvire nebo k potomkům.
+
+Vytvořte třídu Klec. Do klece se vejde několik zvířat. Vytvořte metodu 
+pridej_zvire na přidání zvířete do klece.
+
+(Vsuvka pro velmi pokročilé - tohle jsme nedělali, ale můžete si to zkusit vygooglit:
+ Metoda pridej_zvire může mít víc parametrů (více různých zvířat) a přidá je všechny.)
+
+Zařiďte, aby se hezky vypisovala včetně zvířat vevnitř (budeme to potřebovat později).
+Můžete vytvořit několik instancí klecí a umístit do nich některé z už vytvořených zvířat.
+
+Vytvořte třídu Zoo. Do zoo se vejde několik klecí. Vytvořte metodu pridej_klec na přidání klece do zoo.
+
+(Vsuvka pro pokročilé: metoda pridej_klec umí přidat několik klecí najednou.)
+
+Třída Zoo se umí hezky vypisovat (vypíše klece i zvířata v nich).
+
+Vytvořte metodu vypis_podle_barvy, která projde celé zoo (všechny klece a zvířata v nich) a vypíše jen
+zvířata s určitou barvou (barvu dostane jako parametr).
+Vytvořte metodu vypis_podle_nohou, která projde celé zoo (všechny klece a zvířata v nich) a vypíše jen
+zvířata s určitým počtem nohou (ten dostane jako parametr).
+
+Do zoo přijel sponzor. Chce všem zvířatům koupit ponožky. Vytvořte metodu spocitej_nohy, která projde
+všechny klece a zvířata v nich a spočítá počet nohou v celé zoo.
+
+Vytvořte instanci třídy Zoo a užijte si ji. Vytvořte instance zvířat (pokud je už nemáte), 
+do klecí dejte zvířata a klece dejte do zoo. Vypište si zvířata podle barev, podle počtu nohou 
+a nezapomeňte spočítat počet ponožek pro sponzora!
+
+--------------------------------------------------------------------------------------------
+
+Poznámka k importům:
+
+pokud chcete používat více souborů (nemusíte), existují tři varianty pro import:
+(ve všech příkladech platí: soubor je pes.py a v něm je třída Pes)
+
+1.)
+v souboru, kde používáte něco z jiného souboru napíšete
+from jmeno_souboru_bez_přípony import jmeno_třídy_nebo_čehokoliv_co_chci_importovat
+
+from pes import Pes
+
+
+2.)
+nebo importovat celý soubor
+import pes
+
+pak musím používat tečkovou notaci:
+pes.Pes
+(což je výhodné, pomáhá to udržet přehled, co přišlo z kterého souboru):
+
+3.) from pes import *
+
+pak můžu používat třídu Pes přímo, ale nese to s sebou problémy - viz další řádek
+nedělejte to - nedoporučuje se - děláte si pak ve věcech nepořádek

@@ -1,0 +1,7 @@
+kompozice objektů (česky: skládání)
+has ... has-a
+(česky: má)
+
+dědění mezi třídami
+is ... is-a
+(česky: je)

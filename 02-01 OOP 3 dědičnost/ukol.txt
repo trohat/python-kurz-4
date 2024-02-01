@@ -1,0 +1,19 @@
+1.) Vytvořte třídu DomaciZvire. DomaciZvire ma jmeno a metodu vydej_zvuk. Metoda vydej zvuk může 
+být prázdná (obecné zvíře žádný zvuk nevydává).
+
+2.) Vytvořte třídu Pes jako potomka třídy DomaciZvire. Pes má kromě jména navíc rasu. Přepište 
+ve třídě pes metodu vydej_zvuk (jaký zvuk vydává pes asi víte). Vytvořte ve třídě pes ještě jednu 
+metodu (něco psecifického pro psy).
+
+3.) Vytvořte třídu Kocka jako potomka třídy DomaciZvire. Vymyslete nějaký atribut a nějakou metodu,
+kterou má kočka navíc oproti domácímu zvířeti. Přepište ve třídě kočka metodu vydej_zvuk
+(jaký zvuk vydává kočka asi víte). 
+
+4.) Stejným způsobem můžete vytvořit i třídu Slepice (jeden nový atribut, jedna nová metoda,
+přepsat metodu vydej_zvuk).
+
+5.) Vytvořte několik instancí, aspoň jednoho psa, jednu kočku a jednu slepici.
+
+BONUS:
+6.) Vytvořte seznam a instance do něj uložte. Projdětě seznam cyklem a na každém zvířeti
+v seznamu zavolejte vydej_zvuk.
