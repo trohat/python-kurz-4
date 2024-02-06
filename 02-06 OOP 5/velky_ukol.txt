@@ -7,7 +7,7 @@ Vytvořte několik tříd na konkrétní zvířata. Např. třída pes, kočka, 
 
 Každá nová třída bude mít něco navíc (atribut nebo metodu), např. pes může mít atribut rasu nebo
 metodu hlidej_barak. (Dohromady vytvořte aspoň jednu metodu a aspoň jeden atribut.)
-Každý potomek zvířete zároveň přepíše (přetíží) metodu vydej_zvuk po svém (např. pes zaštěká).
+Každý potomek zvířete zároveň přepíše (přebije, překryje) metodu vydej_zvuk po svém (např. pes zaštěká).
 Vytvořte několik instancí různých zvířat.
 
 Vytvořte si seznam (list) a uložte do něj několik instancí různých zvířat. Pak seznam projděte 
