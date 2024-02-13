@@ -5,11 +5,11 @@ tur.setup(800,800)
 
 tur.hideturtle()
 
-tur.speed(9)
+tur.speed(200)
 
-tur.tracer(100)
+tur.tracer(1)
 
-tur.width(20)
+tur.width(1)
 
 tur.bgcolor("black")
 

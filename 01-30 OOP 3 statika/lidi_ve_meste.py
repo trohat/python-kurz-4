@@ -26,10 +26,7 @@ class Mesto:
 
     def pridej_lidi(self, *lidi): # většinou se píše jako *args
         for clovek in lidi:
-            if isinstance(clovek, Clovek):
-                self.seznam_obyvatel.append(clovek)
-            else:
-                print("Nelze přidat, není to člověk.")
+            self.pridej_cloveka(clovek)
 
     def __str__(self):
         popis_mesta = f"\nJá jsem město {self.jmeno}.\nA bydlí tu tihle lidé: "

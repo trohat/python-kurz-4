@@ -2,7 +2,7 @@
 
 class Pes:
     def __init__(self, jmeno, rasa):
-        self._jmeno = jmeno
+        self.jmeno = jmeno
         self.__rasa = rasa
 
     def _stekej(self):
@@ -27,11 +27,4 @@ class Pes:
 
 
 pes = Pes("Alík", "vlčák")
-
-class Kocka(Pes):
-    def zkus_neco(self):
-        self._stekej()
-        self.__kousej()
-
-kocka = Kocka("Micka", "superkočka")
-kocka.zkus_neco()
+pes.jmeno= "Blbec"

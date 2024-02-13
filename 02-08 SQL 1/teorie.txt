@@ -1,0 +1,17 @@
+
+databáze - ukládání dat
+
+SQL - MySQL, PostgreSQL, MSSQL, SQLite, Oracle
+
+
+*************************
+NoSQL - MongoDB
+
+Adam Novák, 25, programátor, Adéla, Honzík, Jana
+**********************************
+
+SQL - Structured Query Language
+
+CRUD - create, read, update, delete
+
+SQL - insert, select, update, delete

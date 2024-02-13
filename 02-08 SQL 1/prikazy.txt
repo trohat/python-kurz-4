@@ -1,0 +1,13 @@
+select 1 + 1;
+select 1 + 1   :))))) něco chybí
+select 89 * 23;   
+
+SELECT * FROM albums;
+SELECT * FROM albums LIMIT 5;
+SELECT * FROM tracks LIMIT 5;
+
+.schema tracks
+
+SELECT Name FROM tracks LIMIT 5;
+SELECT Name, Composer FROM tracks LIMIT 5;
+SELECT TrackId, Name, Composer FROM tracks LIMIT 5;
