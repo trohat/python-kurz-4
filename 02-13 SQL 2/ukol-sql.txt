@@ -1,0 +1,44 @@
+A.) Nejprve pracujte s databází chinook.db a pracujte z příkazové řádky.
+
+1.) Spusťte si sqlite3 v příkazové řádce a připojte se k databázi.
+
+2.) Zobrazte si všechny tabulky. Zobraze si schéma některé z tabulek.
+
+3.) Napište SELECT pro zobrazení všech řádků v tabulce ARTISTS.
+
+4.) Napište SELECT pro zobrazení těch řádků v tabulce ARTISTS, kde je id umělce menší než 30.
+
+5.) Napište SELECT pro zobrazení těch řádků v tabulce ARTISTS, kde je id umělce menší než 70 a větší než 50.
+
+6.) Napište SELECT pro zobrazení těch řádků v tabulce ALBUMS, kde jsou alba od vaší oblíbené kapely (kapelu si 
+předtím najděte v tabulce ARTISTS).
+
+7.) (Těžké) Zkuste si vzpomenout, jak se dělají JOINy a zkuste zobrazit data ze dvou tabulek současně 
+    (třeba alba a jejich umělce).
+
+8.) OPATRNĚ!! Zkuste jednu tabulku vymazat.
+
+9.) Zkuste si v příkazové řádce vytvořit novou tabulku (třeba tabulku knihy - kniha bude mít jméno, autora a rok vydání).
+Nezapomeňte, že každá tabulka potřebuje primární klíč.
+
+10.) Přidejte do tabulky knihy pár knih. Nejdříve po jedné, pak několik najednou.
+
+11.) Změňte název jedné z knih. (Opatrně! Nezměnili jste názvy všech knih?)
+
+12.) Smažte celou tabulku knihy. (Pozor, opravdu přijdete o práci z předchozích bodů.) 
+
+13.) Pokud nemáte nainstalované SQLiteStudio, tak si ho nainstalujte. Prohlédněte is tabulky s jeho pomocí.
+Přijde vám to příjemnější, používat takové grafické prostředí?
+
+B.) Nyní pracujte v Pythonu. Na vše napište pythonovský kód, výsledky samozřejmě můžete ale kontrolovat i
+utilitkou z příkazové řádky.
+
+1.) Vytvořte v novém souboru novou databázi a připojte se k ní.
+
+2.) V databázi vvytvořte tabulku knihy (bude mít stejné sloupce jako tabulka z bodu 9 části A.)
+
+3.) Vložte do ní pár knih.
+
+4.) Vyřešili jste část 3 správně vzhledem k útoku typu SQL injection?
+
+5.) Zkuste knihy z tabulky vypsat.
